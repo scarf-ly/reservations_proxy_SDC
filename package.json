@@ -23,5 +23,8 @@
     "http-proxy": "^1.17.0",
     "morgan": "^1.9.1",
     "path": "^0.12.7"
+  },
+  "dependencies": {
+    "newrelic": "^5.11.0"
   }
 }

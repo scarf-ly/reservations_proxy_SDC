@@ -1,0 +1,216 @@
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52804,"time":"2019-08-03T02:11:04.274Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52804,"time":"2019-08-03T02:11:04.540Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52804,"time":"2019-08-03T02:11:04.734Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52804,"time":"2019-08-03T02:11:04.734Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52804,"time":"2019-08-03T02:11:06.824Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52804,"time":"2019-08-03T02:11:06.825Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BUq90qOX_ptVACUWdQrE0gRdRO2sAAgBAAAnIQEAAM5EAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52804,"time":"2019-08-03T02:11:06.825Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52804,"time":"2019-08-03T02:11:06.834Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52804,"time":"2019-08-03T02:11:07.835Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52804,"time":"2019-08-03T02:11:08.091Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:11:33.209Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:11:33.448Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:11:33.643Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:11:33.643Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:11:35.689Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:11:35.689Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BRwxXV2EMCi3ACUWdQrE0gRdRO2sAAgBAAAnIQEAAM5mAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:11:35.689Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:11:35.696Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:11:36.700Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:11:36.984Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:12:36.709Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:12:36.977Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:13:36.713Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:13:36.903Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:14:36.721Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:14:36.996Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:15:36.723Z","msg":"Harvest started."}
+{"v":0,"level":40,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:15:36.724Z","msg":"Dropped 12894 of 22894 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:15:36.724Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:15:38.973Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:16:36.727Z","msg":"Harvest started."}
+{"v":0,"level":40,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:16:36.728Z","msg":"Dropped 13845 of 23845 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:16:36.728Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:16:39.252Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:17:36.734Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:17:37.237Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:18:36.739Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:18:36.999Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:19:36.742Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:19:37.006Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:20:36.747Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:20:37.029Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:21:36.753Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52838,"time":"2019-08-03T02:21:37.024Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:22:12.762Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:22:13.020Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:22:13.425Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:22:13.425Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:22:15.938Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:22:15.938Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BdsRd6LxjbtBACUWdQrE0gRdRPBAAAgBAAAnIQEAAM7mAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:22:15.939Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:22:15.954Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:22:16.962Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:22:17.216Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:23:16.965Z","msg":"Harvest started."}
+{"v":0,"level":40,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:23:16.966Z","msg":"Dropped 9082 of 19082 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:23:16.966Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:23:20.487Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:24:16.972Z","msg":"Harvest started."}
+{"v":0,"level":40,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:24:16.972Z","msg":"Dropped 11660 of 21660 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:24:16.972Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:24:19.084Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:25:16.978Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:25:18.389Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:26:16.982Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:26:17.259Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:27:16.989Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:27:17.262Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:28:16.996Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:28:17.265Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:29:17.002Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:29:17.278Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:30:17.009Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:30:17.483Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:31:17.015Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:31:17.269Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:32:17.000Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:32:17.253Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:33:17.003Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:33:17.303Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:34:17.069Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:34:17.434Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:35:17.077Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:35:17.394Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:36:17.084Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:36:17.380Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:37:17.105Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:37:17.407Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:38:17.111Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:38:17.521Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:39:17.117Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:39:17.386Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:40:17.120Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:40:17.388Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:41:17.125Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:41:17.445Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:42:17.132Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:42:17.386Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:43:17.139Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:43:17.392Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:44:17.145Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:44:17.405Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:45:17.153Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:45:17.424Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:46:17.157Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:46:17.434Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:47:17.149Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:47:17.415Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:48:17.154Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:48:17.598Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:49:17.159Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:49:17.475Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:50:17.167Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:50:17.452Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:51:17.178Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:51:17.441Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:52:17.190Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:52:17.464Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:53:17.194Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:53:17.456Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:54:17.207Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:54:17.474Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:55:17.213Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:55:17.474Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:56:17.223Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:56:17.511Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:57:17.227Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:57:17.529Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:58:17.233Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:58:17.509Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:59:17.237Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T02:59:17.485Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T03:00:17.239Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T03:00:17.491Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:15:16.351Z","msg":"Harvest started."}
+{"v":0,"level":40,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:15:16.555Z","msg":"Errors during harvest!","component":"Harvest","errors":[{"errno":"ENOTFOUND","code":"ENOTFOUND","syscall":"getaddrinfo","hostname":"collector-001.newrelic.com","host":"collector-001.newrelic.com","port":443}]}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:15:16.558Z","msg":"Harvest finished."}
+{"v":0,"level":40,"name":"newrelic","hostname":"collector-001.newrelic.com","pid":52966,"time":"2019-08-03T07:15:16.561Z","msg":"Error on submission to New Relic.","errno":"ENOTFOUND","code":"ENOTFOUND","syscall":"getaddrinfo","host":"collector-001.newrelic.com","port":443,"stack":"Error: getaddrinfo ENOTFOUND collector-001.newrelic.com collector-001.newrelic.com:443\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)","message":"getaddrinfo ENOTFOUND collector-001.newrelic.com collector-001.newrelic.com:443"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:37:28.225Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:37:28.551Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:38:28.238Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:38:28.542Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:39:28.248Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:39:28.575Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:40:28.254Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:40:28.555Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:41:28.263Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:41:28.571Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:42:28.266Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:42:28.558Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:43:28.271Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:43:28.568Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:44:28.279Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:44:28.575Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:45:28.291Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:45:28.583Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:46:28.298Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:46:28.601Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:47:28.307Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:47:28.601Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:48:28.315Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:48:28.609Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:49:28.326Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:49:28.626Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:50:28.329Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:50:28.614Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:51:28.330Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:51:28.632Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:52:28.333Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:52:30.070Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:53:28.340Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:53:28.649Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:54:28.344Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:54:28.650Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:55:28.349Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:55:28.651Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:56:28.353Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:56:28.662Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:57:28.359Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:57:29.073Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:58:28.365Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:58:28.654Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:59:28.368Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T07:59:28.696Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:00:28.378Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:00:28.681Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:01:28.386Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:01:28.690Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:02:28.399Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:02:28.729Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:03:28.412Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:03:28.715Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:04:28.416Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:04:28.712Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:05:28.409Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:05:28.711Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:06:28.405Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:06:28.719Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:07:28.410Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:07:28.726Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:08:28.414Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:08:28.714Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:09:28.417Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:09:28.734Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:10:28.425Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:10:28.735Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:11:28.434Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:11:28.743Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:12:28.437Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T08:12:28.730Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T15:59:24.737Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T15:59:25.001Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T16:00:24.741Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T16:00:24.996Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T16:01:24.748Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":52966,"time":"2019-08-03T16:01:25.019Z","msg":"Harvest finished."}
