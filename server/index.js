@@ -1,12 +1,13 @@
 require('newrelic');
+const request = require('request');
 const express = require('express');
 const path = require('path');
 const httpProxy = require('http-proxy');
 const morgan = require('morgan');
 
-// const redis = require('redis');
-// const REDIS_PORT = process.env.REDIS_PORT;
-// const redisClient = redis.createClient(REDIS_PORT);
+const redis = require('redis');
+const REDIS_PORT = process.env.REDIS_PORT;
+const redisClient = redis.createClient(REDIS_PORT);
 
 const app = express();
 const apiProxy = httpProxy.createProxyServer();
@@ -21,6 +22,21 @@ app.get('/loaderio-5da5e0ba28c25911b40440f3e1f7b20d', (req, res) => {
   res.send('loaderio-5da5e0ba28c25911b40440f3e1f7b20d')
 });
 
+const restaurantCache = (req, res, next) => {
+  const { restaurantId } = req.params;
+  redisClient.get(restaurantId.toString(), (err, data) => {
+    if (data != null) {
+      res.send(data);
+    } else {
+      next()
+    }
+  });
+}
+
+const reservationCache = (req, res, next) => {
+  
+}
+
 // app.use(morgan('dev'));
 app.use('/:restaurantId', express.static(path.resolve('dist')));
 
@@ -29,14 +45,28 @@ app.all('/:restaurantId/gallery', (req, res) => {
 });
 
 app.get('/:restaurantId/reservation', (req, res) => {
-  apiProxy.web(req, res, {target: reservation});
+  request(`${reservation}/${req.params.restaurantId}/reservation?timestamp=${req.query.timestamp}`, (err, response, body) => {
+    if (err) {
+      console.log(err)
+    } else {
+      res.send(body);
+    }
+  });
+  // apiProxy.web(req, res, {target: reservation});
 });
 
-app.get('/:restaurantId/restaurantCapacity', (req, res) => {
-  console.log('hello');
-  apiProxy.web(req, res, {target: reservation}, (err, result) => {
-    console.log(res);
+
+app.get('/:restaurantId/restaurantCapacity', restaurantCache, (req, res) => {
+  const { restaurantId } = req.params;
+  request(`${reservation}/${restaurantId}/restaurantCapacity`, (err, response, body) => {
+    if (err) {
+      console.log(err)
+    } else {
+      redisClient.set(restaurantId.toString(), body);
+      res.send(body);
+    }
   });
+  // apiProxy.web(req, res, {target: reservation});
 });
 
 app.post('/:restaurantId/reservation', (req, res) => {

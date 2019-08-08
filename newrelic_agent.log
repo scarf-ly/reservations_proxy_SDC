@@ -506,3 +506,609 @@
 {"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":9908,"time":"2019-08-08T00:49:54.747Z","msg":"Harvest finished."}
 {"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":9908,"time":"2019-08-08T00:50:54.468Z","msg":"Harvest started."}
 {"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":9908,"time":"2019-08-08T00:50:54.749Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10010,"time":"2019-08-08T00:56:41.727Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10010,"time":"2019-08-08T00:56:41.954Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10010,"time":"2019-08-08T00:56:42.134Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10010,"time":"2019-08-08T00:56:42.135Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10010,"time":"2019-08-08T00:56:44.293Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10010,"time":"2019-08-08T00:56:44.293Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BSOA1a7HQP5uACUWdQrE0gRdS3OYAAgBAAAnIQEAACcaAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10010,"time":"2019-08-08T00:56:44.294Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10010,"time":"2019-08-08T00:56:44.308Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10010,"time":"2019-08-08T00:56:45.311Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10010,"time":"2019-08-08T00:56:45.573Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10031,"time":"2019-08-08T00:57:33.830Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10031,"time":"2019-08-08T00:57:34.041Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10031,"time":"2019-08-08T00:57:34.341Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10031,"time":"2019-08-08T00:57:34.341Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10031,"time":"2019-08-08T00:57:36.480Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10031,"time":"2019-08-08T00:57:36.480Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BQFU15GsvkTuACUWdQrE0gRdS3PUAAgBAAAnIQEAACcvAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10031,"time":"2019-08-08T00:57:36.481Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10031,"time":"2019-08-08T00:57:36.493Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10031,"time":"2019-08-08T00:57:37.494Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10031,"time":"2019-08-08T00:57:37.835Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10050,"time":"2019-08-08T00:57:49.044Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10050,"time":"2019-08-08T00:57:49.247Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10050,"time":"2019-08-08T00:57:49.480Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10050,"time":"2019-08-08T00:57:49.480Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10050,"time":"2019-08-08T00:57:50.585Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10050,"time":"2019-08-08T00:57:50.586Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BZGxxB3YJBi1ACUWdQrE0gRdS3PUAAgBAAAnIQEAACdCAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10050,"time":"2019-08-08T00:57:50.586Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10050,"time":"2019-08-08T00:57:50.601Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10050,"time":"2019-08-08T00:57:51.605Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10050,"time":"2019-08-08T00:57:51.890Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10069,"time":"2019-08-08T00:57:59.856Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10069,"time":"2019-08-08T00:57:59.977Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10069,"time":"2019-08-08T00:58:00.144Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10069,"time":"2019-08-08T00:58:00.145Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10069,"time":"2019-08-08T00:58:02.044Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10069,"time":"2019-08-08T00:58:02.044Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BVr7Up-Zq86BACUWdQrE0gRdS3QQAAgBAAAnIQEAACdVAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10069,"time":"2019-08-08T00:58:02.044Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10069,"time":"2019-08-08T00:58:02.055Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10069,"time":"2019-08-08T00:58:03.056Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10069,"time":"2019-08-08T00:58:03.401Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10069,"time":"2019-08-08T00:59:03.058Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10069,"time":"2019-08-08T00:59:03.339Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10091,"time":"2019-08-08T00:59:30.928Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10091,"time":"2019-08-08T00:59:31.136Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10091,"time":"2019-08-08T00:59:31.394Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10091,"time":"2019-08-08T00:59:31.394Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10091,"time":"2019-08-08T00:59:34.245Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10091,"time":"2019-08-08T00:59:34.246Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BW0bIZPjcSC_ACUWdQrE0gRdS3RMAAgBAAAnIQEAACdrAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10091,"time":"2019-08-08T00:59:34.246Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10091,"time":"2019-08-08T00:59:34.263Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10091,"time":"2019-08-08T00:59:35.269Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10091,"time":"2019-08-08T00:59:35.537Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10091,"time":"2019-08-08T01:00:35.276Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10091,"time":"2019-08-08T01:00:36.028Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:01:10.448Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:01:10.678Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:01:11.048Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:01:11.048Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:01:13.199Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:01:13.200Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BV3X81Dg-UMjACUWdQrE0gRdS3TEAAgBAAAnIQEAACeFAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:01:13.200Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:01:13.213Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:01:14.214Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:01:14.471Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:02:14.221Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:02:14.631Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:03:14.227Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:03:14.493Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:04:14.235Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:04:14.593Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:05:14.246Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:05:14.514Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:06:14.251Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:06:14.516Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:07:14.247Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:07:14.514Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:08:14.246Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:08:14.528Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:09:14.254Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:09:14.532Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:10:14.259Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10117,"time":"2019-08-08T01:10:14.539Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10177,"time":"2019-08-08T01:10:16.668Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10177,"time":"2019-08-08T01:10:16.894Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10177,"time":"2019-08-08T01:10:17.202Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10177,"time":"2019-08-08T01:10:17.202Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10177,"time":"2019-08-08T01:10:19.289Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10177,"time":"2019-08-08T01:10:19.290Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BU08As-I54oOACUWdQrE0gRdS3bgAAgBAAAnIQEAACfBAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10177,"time":"2019-08-08T01:10:19.290Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10177,"time":"2019-08-08T01:10:19.301Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10177,"time":"2019-08-08T01:10:20.307Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10177,"time":"2019-08-08T01:10:20.566Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10196,"time":"2019-08-08T01:10:22.019Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10196,"time":"2019-08-08T01:10:22.127Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10196,"time":"2019-08-08T01:10:22.438Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10196,"time":"2019-08-08T01:10:22.439Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10196,"time":"2019-08-08T01:10:23.536Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10196,"time":"2019-08-08T01:10:23.536Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BbDrCKDem5m3ACUWdQrE0gRdS3bgAAgBAAAnIQEAACfUAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10196,"time":"2019-08-08T01:10:23.537Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10196,"time":"2019-08-08T01:10:23.549Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10196,"time":"2019-08-08T01:10:24.551Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10196,"time":"2019-08-08T01:10:24.819Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10196,"time":"2019-08-08T01:11:24.555Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10196,"time":"2019-08-08T01:11:24.941Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10196,"time":"2019-08-08T01:12:24.560Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10196,"time":"2019-08-08T01:12:24.832Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:12:59.226Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:12:59.451Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:12:59.808Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:12:59.808Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:13:02.027Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:13:02.028Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BTq6c1HqAr8UACUWdQrE0gRdS3eUAAgBAAAnIQEAACf8AgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:13:02.028Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:13:02.046Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:13:03.047Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:13:03.403Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:14:03.054Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:14:03.408Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:15:03.057Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:15:03.314Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:16:03.064Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:16:03.332Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:17:03.067Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:17:03.260Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:18:03.074Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10236,"time":"2019-08-08T01:18:03.339Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10268,"time":"2019-08-08T01:18:30.625Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10268,"time":"2019-08-08T01:18:30.856Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10268,"time":"2019-08-08T01:18:31.254Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10268,"time":"2019-08-08T01:18:31.254Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10268,"time":"2019-08-08T01:18:33.390Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10268,"time":"2019-08-08T01:18:33.391Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BTyOzOHwx_cRACUWdQrE0gRdS3jAAAgBAAAnIQEAACgcAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10268,"time":"2019-08-08T01:18:33.391Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10268,"time":"2019-08-08T01:18:33.402Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10268,"time":"2019-08-08T01:18:34.407Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10268,"time":"2019-08-08T01:18:34.674Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10286,"time":"2019-08-08T01:18:39.574Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10286,"time":"2019-08-08T01:18:39.764Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10286,"time":"2019-08-08T01:18:39.971Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10286,"time":"2019-08-08T01:18:39.971Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10286,"time":"2019-08-08T01:18:41.905Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10286,"time":"2019-08-08T01:18:41.906Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BZ2oqB-_tmm0ACUWdQrE0gRdS3jAAAgBAAAnIQEAACguAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10286,"time":"2019-08-08T01:18:41.906Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10286,"time":"2019-08-08T01:18:41.914Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10286,"time":"2019-08-08T01:18:42.918Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10286,"time":"2019-08-08T01:18:43.433Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10306,"time":"2019-08-08T01:19:16.932Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10306,"time":"2019-08-08T01:19:17.120Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10306,"time":"2019-08-08T01:19:17.394Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10306,"time":"2019-08-08T01:19:17.395Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10306,"time":"2019-08-08T01:19:19.423Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10306,"time":"2019-08-08T01:19:19.424Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BUsyi024bnrkACUWdQrE0gRdS3j8AAgBAAAnIQEAAChCAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10306,"time":"2019-08-08T01:19:19.424Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10306,"time":"2019-08-08T01:19:19.435Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10306,"time":"2019-08-08T01:19:20.436Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10306,"time":"2019-08-08T01:19:20.714Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10325,"time":"2019-08-08T01:19:26.113Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10325,"time":"2019-08-08T01:19:26.489Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10325,"time":"2019-08-08T01:19:26.717Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10325,"time":"2019-08-08T01:19:26.718Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10325,"time":"2019-08-08T01:19:27.838Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10325,"time":"2019-08-08T01:19:27.838Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BWrS0DKGCwQUACUWdQrE0gRdS3j8AAgBAAAnIQEAAChVAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10325,"time":"2019-08-08T01:19:27.838Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10325,"time":"2019-08-08T01:19:27.853Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10325,"time":"2019-08-08T01:19:28.855Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10325,"time":"2019-08-08T01:19:29.137Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10347,"time":"2019-08-08T01:19:41.480Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10347,"time":"2019-08-08T01:19:41.586Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10347,"time":"2019-08-08T01:19:41.757Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10347,"time":"2019-08-08T01:19:41.757Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10347,"time":"2019-08-08T01:19:42.779Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10347,"time":"2019-08-08T01:19:42.779Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BfhxPLe-n-9EACUWdQrE0gRdS3j8AAgBAAAnIQEAAChrAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10347,"time":"2019-08-08T01:19:42.780Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10347,"time":"2019-08-08T01:19:42.791Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10347,"time":"2019-08-08T01:19:43.792Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10347,"time":"2019-08-08T01:19:44.495Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10347,"time":"2019-08-08T01:20:43.794Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10347,"time":"2019-08-08T01:20:44.214Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10370,"time":"2019-08-08T01:21:09.046Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10370,"time":"2019-08-08T01:21:09.271Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10370,"time":"2019-08-08T01:21:09.604Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10370,"time":"2019-08-08T01:21:09.604Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10370,"time":"2019-08-08T01:21:11.718Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10370,"time":"2019-08-08T01:21:11.718Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BdsY-4WvJHwtACUWdQrE0gRdS3l0AAgBAAAnIQEAACiCAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10370,"time":"2019-08-08T01:21:11.718Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10370,"time":"2019-08-08T01:21:11.726Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10370,"time":"2019-08-08T01:21:12.732Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10370,"time":"2019-08-08T01:21:13.017Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10370,"time":"2019-08-08T01:22:12.727Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10370,"time":"2019-08-08T01:22:13.109Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10370,"time":"2019-08-08T01:23:12.727Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10370,"time":"2019-08-08T01:23:12.999Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10771,"time":"2019-08-08T01:50:28.251Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10771,"time":"2019-08-08T01:50:28.452Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10771,"time":"2019-08-08T01:50:28.694Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10771,"time":"2019-08-08T01:50:28.694Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10771,"time":"2019-08-08T01:50:31.125Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10771,"time":"2019-08-08T01:50:31.126Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BQad5HeMXvxlACUWdQrE0gRdS4BAAAgBAAAnIQEAACoTAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10771,"time":"2019-08-08T01:50:31.126Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10771,"time":"2019-08-08T01:50:31.143Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10771,"time":"2019-08-08T01:50:32.148Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10771,"time":"2019-08-08T01:50:32.406Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10771,"time":"2019-08-08T01:51:32.153Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10771,"time":"2019-08-08T01:51:32.497Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:52:25.897Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:52:26.119Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:52:26.404Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:52:26.404Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:52:28.804Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:52:28.804Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BY5X1n7AKUD8ACUWdQrE0gRdS4C4AAgBAAAnIQEAACosAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:52:28.805Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:52:28.815Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:52:29.818Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:52:30.397Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:53:29.822Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:53:30.203Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:54:29.828Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:54:30.087Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:55:29.831Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:55:30.091Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:56:29.857Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:56:32.923Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:57:29.860Z","msg":"Harvest started."}
+{"v":0,"level":40,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:57:29.860Z","msg":"Dropped 33014 of 43014 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:57:29.860Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:57:32.585Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:58:29.864Z","msg":"Harvest started."}
+{"v":0,"level":40,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:58:29.864Z","msg":"Dropped 20809 of 30809 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:58:29.864Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:58:31.719Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:59:29.868Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T01:59:30.578Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:00:29.874Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:00:30.139Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:01:29.879Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:01:30.136Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:02:29.884Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:02:30.160Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:03:29.887Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:03:30.160Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:04:29.895Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:04:30.162Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:05:29.901Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:05:30.159Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:06:29.907Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:06:30.189Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:07:29.897Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:07:30.154Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:08:29.902Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:08:30.158Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:09:29.906Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:09:30.180Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:10:29.912Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10796,"time":"2019-08-08T02:10:30.180Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10916,"time":"2019-08-08T02:10:38.409Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10916,"time":"2019-08-08T02:10:38.643Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10916,"time":"2019-08-08T02:10:38.973Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10916,"time":"2019-08-08T02:10:38.973Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10916,"time":"2019-08-08T02:10:41.528Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10916,"time":"2019-08-08T02:10:41.529Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BQEGMUTu0iIvACUWdQrE0gRdS4TwAAgBAAAnIQEAACqkAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10916,"time":"2019-08-08T02:10:41.529Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10916,"time":"2019-08-08T02:10:41.536Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10916,"time":"2019-08-08T02:10:42.542Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10916,"time":"2019-08-08T02:10:42.822Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10916,"time":"2019-08-08T02:11:42.547Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10916,"time":"2019-08-08T02:11:42.930Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10944,"time":"2019-08-08T02:12:25.964Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10944,"time":"2019-08-08T02:12:26.183Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10944,"time":"2019-08-08T02:12:26.476Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10944,"time":"2019-08-08T02:12:26.477Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10944,"time":"2019-08-08T02:12:28.850Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10944,"time":"2019-08-08T02:12:28.851Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BWwakyLBvdncACUWdQrE0gRdS4VoAAgBAAAnIQEAACrAAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10944,"time":"2019-08-08T02:12:28.851Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10944,"time":"2019-08-08T02:12:28.863Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10944,"time":"2019-08-08T02:12:29.866Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10944,"time":"2019-08-08T02:12:30.143Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10966,"time":"2019-08-08T02:13:06.819Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10966,"time":"2019-08-08T02:13:07.036Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10966,"time":"2019-08-08T02:13:07.309Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10966,"time":"2019-08-08T02:13:07.309Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10966,"time":"2019-08-08T02:13:09.638Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10966,"time":"2019-08-08T02:13:09.638Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BUx5ODqV0_faACUWdQrE0gRdS4WkAAgBAAAnIQEAACrWAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10966,"time":"2019-08-08T02:13:09.639Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10966,"time":"2019-08-08T02:13:09.653Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10966,"time":"2019-08-08T02:13:10.656Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10966,"time":"2019-08-08T02:13:10.925Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10985,"time":"2019-08-08T02:13:26.570Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10985,"time":"2019-08-08T02:13:26.761Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10985,"time":"2019-08-08T02:13:26.991Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10985,"time":"2019-08-08T02:13:26.991Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10985,"time":"2019-08-08T02:13:28.254Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10985,"time":"2019-08-08T02:13:28.255Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BR84lmXwunZFACUWdQrE0gRdS4WkAAgBAAAnIQEAACrpAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10985,"time":"2019-08-08T02:13:28.255Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10985,"time":"2019-08-08T02:13:28.266Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10985,"time":"2019-08-08T02:13:29.271Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":10985,"time":"2019-08-08T02:13:29.536Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11004,"time":"2019-08-08T02:13:59.786Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11004,"time":"2019-08-08T02:13:59.996Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11004,"time":"2019-08-08T02:14:00.417Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11004,"time":"2019-08-08T02:14:00.417Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11004,"time":"2019-08-08T02:14:02.675Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11004,"time":"2019-08-08T02:14:02.676Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BduWCsPVmgsKACUWdQrE0gRdS4XgAAgBAAAnIQEAACr8AgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11004,"time":"2019-08-08T02:14:02.676Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11004,"time":"2019-08-08T02:14:02.688Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11004,"time":"2019-08-08T02:14:03.690Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11004,"time":"2019-08-08T02:14:03.980Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11028,"time":"2019-08-08T02:15:01.760Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11028,"time":"2019-08-08T02:15:01.982Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11028,"time":"2019-08-08T02:15:02.280Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11028,"time":"2019-08-08T02:15:02.281Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11028,"time":"2019-08-08T02:15:04.722Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11028,"time":"2019-08-08T02:15:04.723Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID Bb72N1rAl3kJACUWdQrE0gRdS4YcAAgBAAAnIQEAACsUAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11028,"time":"2019-08-08T02:15:04.723Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11028,"time":"2019-08-08T02:15:04.734Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11028,"time":"2019-08-08T02:15:05.739Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11028,"time":"2019-08-08T02:15:06.000Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11047,"time":"2019-08-08T02:15:50.952Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11047,"time":"2019-08-08T02:15:51.067Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11047,"time":"2019-08-08T02:15:51.234Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11047,"time":"2019-08-08T02:15:51.234Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11047,"time":"2019-08-08T02:15:53.253Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11047,"time":"2019-08-08T02:15:53.253Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BUd-_met0PkZACUWdQrE0gRdS4YcAAgBAAAnIQEAACsnAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11047,"time":"2019-08-08T02:15:53.253Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11047,"time":"2019-08-08T02:15:53.265Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11047,"time":"2019-08-08T02:15:54.266Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11047,"time":"2019-08-08T02:15:54.529Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11066,"time":"2019-08-08T02:16:04.486Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11066,"time":"2019-08-08T02:16:04.609Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11066,"time":"2019-08-08T02:16:04.786Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11066,"time":"2019-08-08T02:16:04.787Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11066,"time":"2019-08-08T02:16:05.887Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11066,"time":"2019-08-08T02:16:05.887Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BXIDGe7dGnrcACUWdQrE0gRdS4ZYAAgBAAAnIQEAACs6AgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11066,"time":"2019-08-08T02:16:05.887Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11066,"time":"2019-08-08T02:16:05.900Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11066,"time":"2019-08-08T02:16:06.907Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11066,"time":"2019-08-08T02:16:07.121Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11084,"time":"2019-08-08T02:16:16.743Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11084,"time":"2019-08-08T02:16:16.862Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11084,"time":"2019-08-08T02:16:17.019Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11084,"time":"2019-08-08T02:16:17.020Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11084,"time":"2019-08-08T02:16:19.096Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11084,"time":"2019-08-08T02:16:19.097Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BeNkM4qSJ0K0ACUWdQrE0gRdS4ZYAAgBAAAnIQEAACtMAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11084,"time":"2019-08-08T02:16:19.097Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11084,"time":"2019-08-08T02:16:19.114Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11084,"time":"2019-08-08T02:16:20.115Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11084,"time":"2019-08-08T02:16:20.519Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11104,"time":"2019-08-08T02:17:17.709Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11104,"time":"2019-08-08T02:17:17.817Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11104,"time":"2019-08-08T02:17:17.965Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11104,"time":"2019-08-08T02:17:17.965Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11104,"time":"2019-08-08T02:17:19.950Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11104,"time":"2019-08-08T02:17:19.951Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BX9fqP_FdRzQACUWdQrE0gRdS4aUAAgBAAAnIQEAACtgAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11104,"time":"2019-08-08T02:17:19.951Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11104,"time":"2019-08-08T02:17:19.963Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11104,"time":"2019-08-08T02:17:20.966Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11104,"time":"2019-08-08T02:17:21.308Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11123,"time":"2019-08-08T02:17:37.859Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11123,"time":"2019-08-08T02:17:38.004Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11123,"time":"2019-08-08T02:17:38.207Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11123,"time":"2019-08-08T02:17:38.207Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11123,"time":"2019-08-08T02:17:39.784Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11123,"time":"2019-08-08T02:17:39.784Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BeLm7cCmClZMACUWdQrE0gRdS4aUAAgBAAAnIQEAACtzAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11123,"time":"2019-08-08T02:17:39.784Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11123,"time":"2019-08-08T02:17:39.796Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11123,"time":"2019-08-08T02:17:40.799Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11123,"time":"2019-08-08T02:17:41.022Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11123,"time":"2019-08-08T02:18:40.806Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11123,"time":"2019-08-08T02:18:41.216Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11123,"time":"2019-08-08T02:19:40.809Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11123,"time":"2019-08-08T02:19:41.413Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11149,"time":"2019-08-08T02:20:23.391Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11149,"time":"2019-08-08T02:20:23.616Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11149,"time":"2019-08-08T02:20:23.906Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11149,"time":"2019-08-08T02:20:23.907Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11168,"time":"2019-08-08T02:20:26.337Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11168,"time":"2019-08-08T02:20:26.445Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11168,"time":"2019-08-08T02:20:26.606Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11168,"time":"2019-08-08T02:20:26.607Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11168,"time":"2019-08-08T02:20:28.650Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11168,"time":"2019-08-08T02:20:28.651Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID Bd7mNCyma3ShACUWdQrE0gRdS4dIAAgBAAAnIQEAACugAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11168,"time":"2019-08-08T02:20:28.651Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11168,"time":"2019-08-08T02:20:28.670Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11168,"time":"2019-08-08T02:20:29.671Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11168,"time":"2019-08-08T02:20:30.017Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11168,"time":"2019-08-08T02:21:29.676Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11168,"time":"2019-08-08T02:21:30.060Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11188,"time":"2019-08-08T02:21:45.090Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11188,"time":"2019-08-08T02:21:45.289Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11188,"time":"2019-08-08T02:21:45.634Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11188,"time":"2019-08-08T02:21:45.634Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11188,"time":"2019-08-08T02:21:47.992Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11188,"time":"2019-08-08T02:21:47.992Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BZYhHQvTdz-UACUWdQrE0gRdS4eEAAgBAAAnIQEAACu0AgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11188,"time":"2019-08-08T02:21:47.992Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11188,"time":"2019-08-08T02:21:48.000Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11188,"time":"2019-08-08T02:21:49.006Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11188,"time":"2019-08-08T02:21:49.632Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11206,"time":"2019-08-08T02:21:54.867Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11206,"time":"2019-08-08T02:21:55.001Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11206,"time":"2019-08-08T02:21:55.187Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11206,"time":"2019-08-08T02:21:55.187Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11206,"time":"2019-08-08T02:21:56.393Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11206,"time":"2019-08-08T02:21:56.394Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BZpCU2jlzY-8ACUWdQrE0gRdS4eEAAgBAAAnIQEAACvGAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11206,"time":"2019-08-08T02:21:56.394Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11206,"time":"2019-08-08T02:21:56.406Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11206,"time":"2019-08-08T02:21:57.411Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11206,"time":"2019-08-08T02:21:57.688Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11226,"time":"2019-08-08T02:22:50.232Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11226,"time":"2019-08-08T02:22:50.349Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11226,"time":"2019-08-08T02:22:50.521Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11226,"time":"2019-08-08T02:22:50.521Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11226,"time":"2019-08-08T02:22:52.536Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11226,"time":"2019-08-08T02:22:52.536Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BQgk4Hvnz36IACUWdQrE0gRdS4fAAAgBAAAnIQEAACvaAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11226,"time":"2019-08-08T02:22:52.536Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11226,"time":"2019-08-08T02:22:52.555Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11226,"time":"2019-08-08T02:22:53.557Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11226,"time":"2019-08-08T02:22:54.114Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11246,"time":"2019-08-08T02:23:43.441Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11246,"time":"2019-08-08T02:23:43.661Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11246,"time":"2019-08-08T02:23:44.106Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11246,"time":"2019-08-08T02:23:44.106Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11246,"time":"2019-08-08T02:23:46.442Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11246,"time":"2019-08-08T02:23:46.443Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BT9xVzeUI3X0ACUWdQrE0gRdS4f8AAgBAAAnIQEAACvuAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11246,"time":"2019-08-08T02:23:46.443Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11246,"time":"2019-08-08T02:23:46.453Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11246,"time":"2019-08-08T02:23:47.455Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11246,"time":"2019-08-08T02:23:47.789Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11266,"time":"2019-08-08T02:24:30.099Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11266,"time":"2019-08-08T02:24:30.328Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11266,"time":"2019-08-08T02:24:30.696Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11266,"time":"2019-08-08T02:24:30.696Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11266,"time":"2019-08-08T02:24:33.108Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11266,"time":"2019-08-08T02:24:33.109Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID Bc9TwqHK2p9yACUWdQrE0gRdS4g4AAgBAAAnIQEAACwCAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11266,"time":"2019-08-08T02:24:33.109Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11266,"time":"2019-08-08T02:24:33.118Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11266,"time":"2019-08-08T02:24:34.119Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11266,"time":"2019-08-08T02:24:34.530Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11266,"time":"2019-08-08T02:25:34.126Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11266,"time":"2019-08-08T02:25:34.385Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11290,"time":"2019-08-08T02:25:55.442Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11290,"time":"2019-08-08T02:25:55.646Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11290,"time":"2019-08-08T02:25:55.905Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11290,"time":"2019-08-08T02:25:55.905Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11290,"time":"2019-08-08T02:25:58.101Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11290,"time":"2019-08-08T02:25:58.101Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BVZnPIGiX6QgACUWdQrE0gRdS4h0AAgBAAAnIQEAACwaAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11290,"time":"2019-08-08T02:25:58.102Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11290,"time":"2019-08-08T02:25:58.116Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11290,"time":"2019-08-08T02:25:59.117Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11290,"time":"2019-08-08T02:25:59.451Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11309,"time":"2019-08-08T02:26:34.436Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11309,"time":"2019-08-08T02:26:34.540Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11309,"time":"2019-08-08T02:26:34.689Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11309,"time":"2019-08-08T02:26:34.689Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11309,"time":"2019-08-08T02:26:36.719Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11309,"time":"2019-08-08T02:26:36.719Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BboIxtLezQxgACUWdQrE0gRdS4iwAAgBAAAnIQEAACwtAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11309,"time":"2019-08-08T02:26:36.720Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11309,"time":"2019-08-08T02:26:36.733Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11309,"time":"2019-08-08T02:26:37.740Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11309,"time":"2019-08-08T02:26:38.003Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:26:59.147Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:26:59.359Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:26:59.652Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:26:59.653Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:27:02.041Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:27:02.041Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BTHiY3ibQ9UwACUWdQrE0gRdS4jsAAgBAAAnIQEAACxAAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:27:02.041Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:27:02.053Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:27:03.061Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:27:03.338Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:28:03.068Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:28:03.342Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:29:03.074Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:29:03.333Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:30:03.082Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11328,"time":"2019-08-08T02:30:03.358Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:30:52.325Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:30:52.600Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:30:52.862Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:30:52.863Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:30:55.398Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:30:55.399Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BZdGQ6bmwfNcACUWdQrE0gRdS4mgAAgBAAAnIQEAAC0ZAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:30:55.399Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:30:55.409Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:30:56.416Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:30:56.715Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:31:56.421Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:31:56.690Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:32:56.429Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:32:56.702Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:33:56.435Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:33:56.710Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:34:56.441Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:34:56.712Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:35:56.448Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:35:56.709Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:36:56.454Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11545,"time":"2019-08-08T02:36:56.642Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11583,"time":"2019-08-08T02:37:35.474Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11583,"time":"2019-08-08T02:37:35.704Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11583,"time":"2019-08-08T02:37:36.150Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11583,"time":"2019-08-08T02:37:36.150Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11583,"time":"2019-08-08T02:37:38.598Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11583,"time":"2019-08-08T02:37:38.599Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BfncS52alykoACUWdQrE0gRdS4tEAAgBAAAnIQEAAC0_AgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11583,"time":"2019-08-08T02:37:38.599Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11583,"time":"2019-08-08T02:37:38.610Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11583,"time":"2019-08-08T02:37:39.613Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11583,"time":"2019-08-08T02:37:39.876Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11583,"time":"2019-08-08T02:38:39.617Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11583,"time":"2019-08-08T02:38:40.053Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11583,"time":"2019-08-08T02:39:39.619Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11583,"time":"2019-08-08T02:39:39.882Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11609,"time":"2019-08-08T02:39:51.066Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11609,"time":"2019-08-08T02:39:51.294Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11609,"time":"2019-08-08T02:39:51.580Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11609,"time":"2019-08-08T02:39:51.581Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11609,"time":"2019-08-08T02:39:54.110Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11609,"time":"2019-08-08T02:39:54.110Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BUrWyVCl_On8ACUWdQrE0gRdS4u8AAgBAAAnIQEAAC1ZAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11609,"time":"2019-08-08T02:39:54.110Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11609,"time":"2019-08-08T02:39:54.126Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11609,"time":"2019-08-08T02:39:55.127Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11609,"time":"2019-08-08T02:39:55.892Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11628,"time":"2019-08-08T02:39:58.757Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11628,"time":"2019-08-08T02:39:58.867Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11628,"time":"2019-08-08T02:39:59.029Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11628,"time":"2019-08-08T02:39:59.030Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11628,"time":"2019-08-08T02:40:00.222Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11628,"time":"2019-08-08T02:40:00.223Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BeXzjwfxdB91ACUWdQrE0gRdS4v4AAgBAAAnIQEAAC1sAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11628,"time":"2019-08-08T02:40:00.224Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11628,"time":"2019-08-08T02:40:00.238Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11628,"time":"2019-08-08T02:40:01.240Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11628,"time":"2019-08-08T02:40:01.513Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11628,"time":"2019-08-08T02:41:01.245Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11628,"time":"2019-08-08T02:41:01.927Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11652,"time":"2019-08-08T02:41:30.679Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11652,"time":"2019-08-08T02:41:30.777Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11652,"time":"2019-08-08T02:41:30.948Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11652,"time":"2019-08-08T02:41:30.948Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11652,"time":"2019-08-08T02:41:32.930Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11652,"time":"2019-08-08T02:41:32.930Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID Ba8mtaS56Uf1ACUWdQrE0gRdS4w0AAgBAAAnIQEAAC2EAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11652,"time":"2019-08-08T02:41:32.931Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11652,"time":"2019-08-08T02:41:32.945Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11652,"time":"2019-08-08T02:41:33.946Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11652,"time":"2019-08-08T02:41:34.207Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11670,"time":"2019-08-08T02:41:48.003Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11670,"time":"2019-08-08T02:41:48.115Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11670,"time":"2019-08-08T02:41:48.342Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11670,"time":"2019-08-08T02:41:48.343Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11670,"time":"2019-08-08T02:41:49.552Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11670,"time":"2019-08-08T02:41:49.553Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BX9SsqDc262nACUWdQrE0gRdS4w0AAgBAAAnIQEAAC2WAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11670,"time":"2019-08-08T02:41:49.553Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11670,"time":"2019-08-08T02:41:49.569Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11670,"time":"2019-08-08T02:41:50.573Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11670,"time":"2019-08-08T02:41:50.834Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11689,"time":"2019-08-08T02:41:56.632Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11689,"time":"2019-08-08T02:41:56.766Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11689,"time":"2019-08-08T02:41:56.961Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11689,"time":"2019-08-08T02:41:56.961Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11689,"time":"2019-08-08T02:41:59.030Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11689,"time":"2019-08-08T02:41:59.031Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BT4qIyXENimTACUWdQrE0gRdS4w0AAgBAAAnIQEAAC2pAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11689,"time":"2019-08-08T02:41:59.031Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11689,"time":"2019-08-08T02:41:59.042Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11689,"time":"2019-08-08T02:42:00.046Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11689,"time":"2019-08-08T02:42:00.330Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11708,"time":"2019-08-08T02:42:29.957Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11708,"time":"2019-08-08T02:42:30.189Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11708,"time":"2019-08-08T02:42:30.497Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11708,"time":"2019-08-08T02:42:30.497Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11708,"time":"2019-08-08T02:42:33.016Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11708,"time":"2019-08-08T02:42:33.017Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BQwR-_6OdDB0ACUWdQrE0gRdS4xwAAgBAAAnIQEAAC28AgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11708,"time":"2019-08-08T02:42:33.017Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11708,"time":"2019-08-08T02:42:33.031Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11708,"time":"2019-08-08T02:42:34.033Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11708,"time":"2019-08-08T02:42:34.297Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11726,"time":"2019-08-08T02:42:48.078Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11726,"time":"2019-08-08T02:42:48.292Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11726,"time":"2019-08-08T02:42:48.558Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11726,"time":"2019-08-08T02:42:48.558Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11726,"time":"2019-08-08T02:42:50.025Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11726,"time":"2019-08-08T02:42:50.025Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BbmF6G7iEupHACUWdQrE0gRdS4xwAAgBAAAnIQEAAC3OAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11726,"time":"2019-08-08T02:42:50.026Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11726,"time":"2019-08-08T02:42:50.037Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11726,"time":"2019-08-08T02:42:51.042Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11726,"time":"2019-08-08T02:42:51.231Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11745,"time":"2019-08-08T02:42:58.511Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11745,"time":"2019-08-08T02:42:58.619Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11745,"time":"2019-08-08T02:42:58.784Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11745,"time":"2019-08-08T02:42:58.784Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11745,"time":"2019-08-08T02:43:00.808Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11745,"time":"2019-08-08T02:43:00.808Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BcjSprnbjKdOACUWdQrE0gRdS4ysAAgBAAAnIQEAAC3hAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11745,"time":"2019-08-08T02:43:00.808Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11745,"time":"2019-08-08T02:43:00.820Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11745,"time":"2019-08-08T02:43:01.824Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11745,"time":"2019-08-08T02:43:02.094Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11763,"time":"2019-08-08T02:43:18.069Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11763,"time":"2019-08-08T02:43:18.175Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11763,"time":"2019-08-08T02:43:18.340Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11763,"time":"2019-08-08T02:43:18.341Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11763,"time":"2019-08-08T02:43:19.494Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11763,"time":"2019-08-08T02:43:19.495Z","msg":"Connected to collector-001.newrelic.com:443 with agent run ID BU-GM9_yzn1FACUWdQrE0gRdS4ysAAgBAAAnIQEAAC3zAgQKxNIDAwAGNS4xMS4wABlLZWF0b25zLU1hY0Jvb2stQWlyLmxvY2FsABFSZXNlcnZhdGlvbiBQcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11763,"time":"2019-08-08T02:43:19.495Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2430581/applications/180670979","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11763,"time":"2019-08-08T02:43:19.510Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11763,"time":"2019-08-08T02:43:20.512Z","msg":"Harvest started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11763,"time":"2019-08-08T02:43:20.789Z","msg":"Harvest finished."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11783,"time":"2019-08-08T02:44:02.983Z","msg":"Using New Relic for Node.js. Agent version: 5.11.0; Node version: v8.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11783,"time":"2019-08-08T02:44:03.102Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11783,"time":"2019-08-08T02:44:03.265Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Keatons-MacBook-Air.local","pid":11783,"time":"2019-08-08T02:44:03.265Z","msg":"Agent state changed from starting to connecting."}
