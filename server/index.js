@@ -69,7 +69,7 @@ app.get('/:restaurantId/reservation', reservationCache, (req, res) => {
 
 app.get('/:restaurantId/restaurantCapacity', restaurantCache, (req, res) => {
   const { restaurantId } = req.params;
-  request(`${reservation}/${restaurantId}/restaurantCapacity`, (err, response, body) => {
+  request(`${reservation}/${restaurantId}/restaurantCapacity`, (err, response, body) => { // ${reservation} is the variable that points to the IP my service is running on in AWS
     if (err) {
       console.log(err)
     } else {
@@ -77,7 +77,7 @@ app.get('/:restaurantId/restaurantCapacity', restaurantCache, (req, res) => {
       res.send(body);
     }
   });
-  // apiProxy.web(req, res, {target: reservation});
+  // apiProxy.web(req, res, {target: reservation}); // This is the old http proxy, will delete
 });
 
 app.post('/:restaurantId/reservation', (req, res) => {
