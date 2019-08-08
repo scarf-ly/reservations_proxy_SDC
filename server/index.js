@@ -4,6 +4,10 @@ const path = require('path');
 const httpProxy = require('http-proxy');
 const morgan = require('morgan');
 
+// const redis = require('redis');
+// const REDIS_PORT = process.env.REDIS_PORT;
+// const redisClient = redis.createClient(REDIS_PORT);
+
 const app = express();
 const apiProxy = httpProxy.createProxyServer();
 const port = 3005;
@@ -13,6 +17,9 @@ const reservation = 'http://54.183.216.157';
 const popular = 'http://localhost:3002';
 const header = 'http://ec2-18-188-246-230.us-east-2.compute.amazonaws.com';
 
+app.get('/loaderio-5da5e0ba28c25911b40440f3e1f7b20d', (req, res) => {
+  res.send('loaderio-5da5e0ba28c25911b40440f3e1f7b20d')
+});
 
 // app.use(morgan('dev'));
 app.use('/:restaurantId', express.static(path.resolve('dist')));
@@ -26,7 +33,10 @@ app.get('/:restaurantId/reservation', (req, res) => {
 });
 
 app.get('/:restaurantId/restaurantCapacity', (req, res) => {
-  apiProxy.web(req, res, {target: reservation});
+  console.log('hello');
+  apiProxy.web(req, res, {target: reservation}, (err, result) => {
+    console.log(res);
+  });
 });
 
 app.post('/:restaurantId/reservation', (req, res) => {
