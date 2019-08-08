@@ -28,13 +28,21 @@ const restaurantCache = (req, res, next) => {
     if (data != null) {
       res.send(data);
     } else {
-      next()
+      next();
     }
   });
 }
 
 const reservationCache = (req, res, next) => {
-  
+  const { restaurantId } = req.params;
+  const { timestamp } = req.query;
+  redisClient.get(restaurantId.toString() + timestamp.toString(), (err, data) => {
+    if (data != null) {
+      res.send(data);
+    } else {
+      next();
+    }
+  });
 }
 
 // app.use(morgan('dev'));
@@ -44,11 +52,14 @@ app.all('/:restaurantId/gallery', (req, res) => {
   apiProxy.web(req, res, {target: gallery});
 });
 
-app.get('/:restaurantId/reservation', (req, res) => {
-  request(`${reservation}/${req.params.restaurantId}/reservation?timestamp=${req.query.timestamp}`, (err, response, body) => {
+app.get('/:restaurantId/reservation', reservationCache, (req, res) => {
+  const { restaurantId } = req.params;
+  const { timestamp } = req.query;
+  request(`${reservation}/${restaurantId}/reservation?timestamp=${timestamp}`, (err, response, body) => {
     if (err) {
       console.log(err)
     } else {
+      redisClient.set(restaurantId.toString() + timestamp.toString(), body)
       res.send(body);
     }
   });
