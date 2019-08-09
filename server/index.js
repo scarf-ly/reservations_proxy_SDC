@@ -63,7 +63,6 @@ app.get('/:restaurantId/reservation', reservationCache, (req, res) => {
       res.send(body);
     }
   });
-  // apiProxy.web(req, res, {target: reservation});
 });
 
 
